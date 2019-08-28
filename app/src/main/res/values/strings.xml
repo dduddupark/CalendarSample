@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalendarSample</string>
+    <string name="calendar_title">%d년 %d월</string>
+</resources>
